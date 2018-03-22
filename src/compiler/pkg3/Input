@@ -1,0 +1,17 @@
+
+say Steven?
+#define add(p)(cv=p+1);
+#define pi=3.14,jump=106;
+#define sub(h)(h=h-1);
+#include <iostream.h>
+	#defilne	hello bidyut 
+main(){
+	int a=10,b,c,d;
+	c=pi+a;
+add(a);
+pi++;
+c=jump +pi;
+sub(b);
+add(c);
+b=jump;
+sub(d);
